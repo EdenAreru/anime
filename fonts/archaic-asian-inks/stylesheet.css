@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Archaic Asian Inks';
+    src: url('ArchaicAsianInks.eot');
+    src: url('ArchaicAsianInks.eot?#iefix') format('embedded-opentype'),
+        url('ArchaicAsianInks.woff2') format('woff2'),
+        url('ArchaicAsianInks.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
