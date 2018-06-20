@@ -1,8 +1,6 @@
 @font-face {
-    font-family: Miso;
-    src: url(Miso.woff);
-    font-family: ArchaicAsianInks;
-    src: url(ArchaicAsianInks.woff);
+    font-family: miso;
+    src: url("https://github.com/EdenAreru/anime/fonts/miso/miso.ttf") format('truetype');
 }
 
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
